@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Bye Ciao World!!!!!!!!");
+            Console.WriteLine($"The date today is {DateTime.Now}");
         }
     }
 }
